@@ -1,2 +1,10 @@
 # Rock-Paper-Scissor-Image-Detection
-So in this project, i use dataset from dicoding.com. In this dataset contain a bunch of image hand doing rock paper scissors sign. This project is image detection for hand sign either rock, paper or scissors.
+This is the repository for the submission assignment from "Belajar Machine Learning untuk Pemula" at dicoding.com. This supposed to be recognizing a picture doing handsign. By the end of this notebook you can upload your own image like this ![image](https://user-images.githubusercontent.com/62890028/152838729-d7cdd72b-d3b7-46bd-bf7e-85902dfdc897.png)
+ 
+# Dataset
+Dataset contain a bunch images of hand doing handsign divided by image rock, paper, or scissors.
+# Library
+ - tensorflow
+ - sklearn
+ - matplotlib
+ - numpy
